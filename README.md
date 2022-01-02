@@ -1,7 +1,11 @@
-## Responsive Product Card With Popup | [Live-Link]()
+# Responsive Product Card With Popup | [Live-Link](https://taiseen.github.io/responsive-product-card-popup/)
 
-### Learning Context
+## Learning Context
 - Select Product
+- Responsiveness
 - Close Button Functionality
 
-<img src="./assets/img/demo.png" />
+<img src="./assets/img/demo-1.png" />
+
+#
+<img src="./assets/img/demo-2.png" />
